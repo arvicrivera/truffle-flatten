@@ -19,7 +19,7 @@
   "dependencies": {
     "fs-extra": "^8.1.0",
     "lodash": "4.17.15",
-    "truffle-flattener": "^1.4.2"
+    "truffle-flattener": "github:fedeb95/truffle-flattener"
   },
   "bugs": {
     "url": "https://github.com/ejwessel/truffle-flatten/issues"
